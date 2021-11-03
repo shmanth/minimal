@@ -1,5 +1,7 @@
 # Data science portfolio
 
+
+
 ## Project 1
 
 ###Fraud detection:
@@ -7,6 +9,8 @@ Fraud detection is a set of processes and analyses that allow businesses to iden
 <center><img src="fraud_detection.jpg "/></center>
 
  
+
+
 
 ## Project 2
 
