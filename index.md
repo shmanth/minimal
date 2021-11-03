@@ -4,7 +4,7 @@
 
 ## Project 1
 
-###Fraud detection:
+### Fraud detection:
 Fraud detection is a set of processes and analyses that allow businesses to identify and prevent unauthorized financial activity.
 <center><img src="fraud_detection.jpg "/></center>
 
@@ -14,5 +14,5 @@ Fraud detection is a set of processes and analyses that allow businesses to iden
 
 ## Project 2
 
-####Coming soon
+#### Coming soon
 
