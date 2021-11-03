@@ -10,12 +10,14 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Project 1
+# Data science portfolio
 
-Fraud detection:
+## Project 1
+
+###Fraud detection:
 Fraud detection is a set of processes and analyses that allow businesses to identify and prevent unauthorized financial activity.
 
 ## Project 2
 
-Coming soon
+####Coming soon
 
